@@ -1,0 +1,9 @@
+com/test/lucene/IndexSearch.class
+com/test/lucene/Analyzer/AnalAndSim.class
+com/test/lucene/Analyzer/symanalyzer.class
+com/test/lucene/qexpansion/ScorePair.class
+com/test/lucene/Utility/IRUtils.class
+com/test/lucene/Analyzer/MyAnalyzer.class
+com/test/lucene/QueryResult.class
+com/test/lucene/qexpansion/ExpandQuery.class
+com/test/lucene/IndexCreate.class
