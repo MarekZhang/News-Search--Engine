@@ -8,7 +8,7 @@ A implementation of search Engine based on Apache Lucene and four sources news
 Linux 4.4.0
 Maven 3.2.2
 Java 11
-gcc 5.4.0
+gcc 7.5.0
 Lucene 7.2.1
 ```
 
@@ -29,9 +29,11 @@ mvn package
 java -cp target/ir_artifact-1.0-SNAPSHOT.jar com.test.lucene.IndexCreate 
 ```
 - 4. Run Search
+- for a more precise query please run command below
 ```shell
 java -cp target/ir_artifact-1.0-SNAPSHOT.jar com.test.lucene.IndexSearch -ExpQuery
 ```
+- for a more simple version of query please run
 ```shell
 java -cp target/ir_artifact-1.0-SNAPSHOT.jar com.test.lucene.IndexSearch -NormalQuery
 ```
