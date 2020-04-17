@@ -7,7 +7,7 @@ A implementation of search Engine based on Apache Lucene and four sources news
 ```
 Linux 4.4.0
 Maven 3.2.2
-Java 1.8
+Java 11
 gcc 5.4.0
 Lucene 7.2.1
 ```
