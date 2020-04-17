@@ -29,11 +29,11 @@ mvn package
 java -cp target/ir_artifact-1.0-SNAPSHOT.jar com.test.lucene.IndexCreate 
 ```
 - 4. Run Search
-- for a more precise query please run command below
+  - for a more precise query please run command below
 ```shell
 java -cp target/ir_artifact-1.0-SNAPSHOT.jar com.test.lucene.IndexSearch -ExpQuery
 ```
-- for a more simple version of query please run
+  - for a more simple version of query please run
 ```shell
 java -cp target/ir_artifact-1.0-SNAPSHOT.jar com.test.lucene.IndexSearch -NormalQuery
 ```
