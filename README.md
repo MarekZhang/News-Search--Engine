@@ -42,7 +42,3 @@ cd trec_eval
 ```shell
 ./trec_eval trec_eval_assignment2 results.out
 ```
-- 6. Connect to linux
-```shell
-ssh -i /path/my-key-pair.pem ubuntu@ec2-107-20-117-245.compute-1.amazonaws.com
-```
