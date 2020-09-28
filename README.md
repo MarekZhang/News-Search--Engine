@@ -1,6 +1,7 @@
 # Lucene-Search-App
-A implementation of search Engine based on Apache Lucene and four sources news
- - CS7IS3 Assignment 2
+A search Engine that index and search a specific collection of documents by implementing Apache Lucene API.
+Achieved 0.35 map tested on half of the QRels file, and 0.293 map with the whole QRels file.
+Placed top 1 out of 13 teams.
 
 ## Running Environment
 
