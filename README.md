@@ -46,5 +46,5 @@ cd trec_eval
 ./trec_eval trec_eval_assignment2 results.out
 ```
 
-Final LeaderBoard
+## Final LeaderBoard
 ![](lucene-search-engine.png)
